@@ -106,7 +106,11 @@ As a general note, it's good practice to merge master into branch and then do th
 
 Git rebase
 This is a good tutorial on the command list needed to performe a rebase [tutorial](https://www.themoderncoder.com/a-better-git-workflow-with-rebase/)
+# Problems with ssh key 
+Use git@<github-dnf32> the correct Host used in config of ssh
 
+maybe something like this can fix this
+git remote set-url origin git@github-dnf32:DNF32/DSA.git
 
 
 
