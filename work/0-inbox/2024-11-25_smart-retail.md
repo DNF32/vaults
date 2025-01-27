@@ -70,3 +70,9 @@ For ML inference Pytorch and super gradient solutions are slow.
 By using ONNX and   OpenVINO speeds can triple, on cpu inference.
 
 Here is a [Github post](https://github.com/ultralytics/yolov5/pull/6613) where it's showed for Yolov5.
+
+
+
+-----
+
+https://arxiv.org/pdf/2411.03724 - CCTV paper
