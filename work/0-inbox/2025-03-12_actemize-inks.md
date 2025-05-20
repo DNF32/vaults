@@ -50,3 +50,10 @@ Right now the version deployed on azure is the commit from the cluter_bug. Deplo
 Rebase of the cluster_alg_bug onto the main branch.
 
 Ver no innovation awards, ficheiro word que a madalena fez.
+o
+
+---
+
+- ver cenas das web apps vs web service para fazer o push do backend mais experimental
+
+---
